@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043721213096",
+    "project_id": "workon-fb519",
+    "storage_bucket": "workon-fb519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043721213096:android:7758b4bc9cf5e50c4e5e9d",
+        "android_client_info": {
+          "package_name": "com.example.work_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043721213096-cdiq2cbuntfb0v00434t4qftkijuafan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawHALEa1GB2HiRcy7Zp58sVXtjJlVLNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043721213096-cdiq2cbuntfb0v00434t4qftkijuafan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
